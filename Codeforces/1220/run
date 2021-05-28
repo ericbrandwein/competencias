@@ -1,0 +1,2 @@
+#/bin/bash
+g++ $1.cpp && echo "Built" && ./a.out

@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "\"*.sage\"": "\"python\"",
+        "span": "cpp"
+    }
+}

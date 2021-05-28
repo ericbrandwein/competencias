@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "\"*.sage\"": "\"python\"",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp"
+    }
+}
