@@ -1,0 +1,3 @@
+[submodule "milanesitas"]
+	path = milanesitas
+	url = git@github.com:ericbrandwein/milanesitas.git
